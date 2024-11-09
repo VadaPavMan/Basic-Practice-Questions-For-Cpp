@@ -1,5 +1,6 @@
 # Practice Questions For Cpp
 For all the basic core questions please check out this repo: [PQForC](https://github.com/VadaPavMan/Basic-Practice-Questions-for-C)
+
 This repo is for all the C++ important concepts practice questions.
 
 **1. Vector basic use case:**
