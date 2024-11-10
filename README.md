@@ -23,6 +23,7 @@ Simple Class and object based practice question, Create a class **Student** with
 - age (int)
 - grade (char)
 - totalmarks (int)
+
 Add a method studentinfo that prints the details of the student with the grade and marks they obtained.
 Create an object of the class and prompt the user to add the detail to get the grades and result. call the method **studentinfo** to display the student’s details.
 
