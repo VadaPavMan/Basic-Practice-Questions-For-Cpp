@@ -58,3 +58,20 @@ The age of student is: 19
 Total marks obtained: 69
 The grade of student is: B
 ```
+**3. Basic Single Inheritance:**
+- Create a base class Person with attributes name and age.
+- Derive a class Student from Person that adds roll_number and grade.
+- Write a program to input and display the details of a student.
+```
+Enter the name of student: Vadapavman
+Enter the age of Vadapavman: 21
+Enter the roll number of Vadapavman: 69
+Enter the grade Vadapavman got: A
+
+
+Here's is the details of Vadapavman:
+1. Name: Vadapavman
+2. Age: 19
+3. Roll Number: 69
+4. Grade: A
+```
