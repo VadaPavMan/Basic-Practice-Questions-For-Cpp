@@ -75,3 +75,11 @@ Here's is the details of Vadapavman:
 3. Roll Number: 69
 4. Grade: A
 ```
+
+**4. Another Single Inheritance**
+
+- Create a base class Shape with a protected member area and a public method calculateArea().
+
+- Derive a class Circle that calculates and displays the area of a circle.
+
+- Use both protected and public access specifiers in your implementation.
