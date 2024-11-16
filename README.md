@@ -93,9 +93,26 @@ Create two base classes:
 - **Work** with an occupation attribute and a method displayOccupation().
 
 Create a derived class **Employee** that inherits from both Person and Work. The Employee class should display the name and occupation of the person.
+
+OutPut:
 ```
 Enter the name here: Vadapavman
 Enter the occupation here: Berozgar 
 Your Name is: Vadapavman
 Your Occupation: Berozgar
+```
+**6. Multiple Inheritance: Handling Overlapping Methods**
+Problem:
+
+Create two base classes:
+
+- ClassA with a method display() that prints "This is ClassA".
+- ClassB with a method display() that prints "This is ClassB".
+- Create a derived class ClassC that inherits from both ClassA and ClassB.
+- In ClassC, override the display() method to call both ClassA and ClassB's display() methods.
+
+OutPut:
+```
+This is the Class A.
+This is the Class B.
 ```
