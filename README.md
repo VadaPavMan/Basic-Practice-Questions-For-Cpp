@@ -102,6 +102,7 @@ Your Name is: Vadapavman
 Your Occupation: Berozgar
 ```
 **6. Multiple Inheritance: Handling Overlapping Methods**
+
 Problem:
 
 Create two base classes:
