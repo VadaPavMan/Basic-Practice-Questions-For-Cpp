@@ -87,6 +87,7 @@ Here's is the details of Vadapavman:
 **5. Multiple Inheritance**
 
 Problem:
+
 Create two base classes:
 - Person with a name attribute and a method displayName().
 - Work with an occupation attribute and a method displayOccupation().
