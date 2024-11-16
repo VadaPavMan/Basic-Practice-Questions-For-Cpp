@@ -83,3 +83,17 @@ Here's is the details of Vadapavman:
 - Derive a class Circle that calculates and displays the area of a circle.
 
 - Use both protected and public access specifiers in your implementation.
+
+**5. Multiple Inheritance**
+
+Problem:
+Create two base classes:
+- Person with a name attribute and a method displayName().
+- Work with an occupation attribute and a method displayOccupation().
+Create a derived class Employee that inherits from both Person and Work. The Employee class should display the name and occupation of the person.
+```
+Enter the name here: Vadapavman
+Enter the occupation here: Berozgar 
+Your Name is: Vadapavman
+Your Occupation: Berozgar
+```
