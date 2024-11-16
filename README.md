@@ -89,10 +89,10 @@ Here's is the details of Vadapavman:
 Problem:
 
 Create two base classes:
-- Person with a name attribute and a method displayName().
-- Work with an occupation attribute and a method displayOccupation().
+- **Person** with a name attribute and a method displayName().
+- **Work** with an occupation attribute and a method displayOccupation().
 
-Create a derived class Employee that inherits from both Person and Work. The Employee class should display the name and occupation of the person.
+Create a derived class **Employee** that inherits from both Person and Work. The Employee class should display the name and occupation of the person.
 ```
 Enter the name here: Vadapavman
 Enter the occupation here: Berozgar 
