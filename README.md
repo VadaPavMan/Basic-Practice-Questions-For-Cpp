@@ -117,3 +117,19 @@ OutPut:
 This is the Class A.
 This is the Class B.
 ```
+
+**7. MultiLevel Inheritance: Adding Levels of Attributes**
+
+Problem:
+
+- Create a base class Animal with a method eat() that prints "This animal eats food."
+- Create a derived class Mammal that inherits from Animal and adds a method walk() that prints "This mammal can walk."
+- Create another derived class Dog that inherits from Mammal and adds a method bark() that prints "The dog barks."
+
+- OutPut:
+```
+Hello World!
+The dog barks.
+This Mammal can walk.
+This animal eats food.
+```
