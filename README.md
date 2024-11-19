@@ -126,10 +126,24 @@ Problem:
 - Create a derived class Mammal that inherits from Animal and adds a method walk() that prints "This mammal can walk."
 - Create another derived class Dog that inherits from Mammal and adds a method bark() that prints "The dog barks."
 
-- OutPut:
+OutPut:
 ```
 Hello World!
 The dog barks.
 This Mammal can walk.
 This animal eats food.
+```
+**8. Multilevel Inheritance: Passing Data Through Levels**
+
+Problem:
+
+- Create a base class Shape with protected attributes width and height, and a method setDimensions() to set their values.
+- Create a derived class Rectangle that inherits from Shape and adds a method calculateArea() to calculate the area of the rectangle.
+- Create another derived class Cuboid that inherits from Rectangle and adds a method calculateVolume() by multiplying the area with the depth (provided as input).
+
+OutPut:
+```
+Enter the depth: 32.1
+This is the area:985.66
+Volume of cuboid: 31639.7
 ```
