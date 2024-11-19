@@ -147,3 +147,19 @@ Enter the depth: 32.1
 This is the area:985.66
 Volume of cuboid: 31639.7
 ```
+
+**9. Multilevel Inheritance: Real-Life Application**
+
+Problem: 
+
+- Create a base class Person with attributes name and age, and a method displayPersonInfo().
+- Create a derived class Student that inherits from Person and adds an attribute rollNumber and a method displayStudentInfo().
+- Create another derived class GraduateStudent that inherits from Student and adds an attribute specialization and a method displayGraduateInfo() to display all details, including specialization.
+
+Output:
+```
+Name: Vadapavman
+Age: 69
+Roll Number: 57
+Graduated from: BCA
+```
