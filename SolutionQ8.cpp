@@ -48,10 +48,10 @@ int main()
     cout << "Enter the depth: ";
     cin >> depth;
 
-    cuboid land;
-    land.setdimension(44.2, 22.3);
-    land.calculatearea();
-    land.calvolume(depth);
+    cuboid dep;
+    dep.setdimension(44.2, 22.3);
+    dep.calculatearea();
+    dep.calvolume(depth);
 
     return 0;
 }
