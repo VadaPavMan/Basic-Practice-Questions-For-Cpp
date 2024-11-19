@@ -46,7 +46,7 @@ int main()
 {
     graduatestudent st;
     st.age = 69;
-    st.name = "Harsh";
+    st.name = "Vadapavman";
     st.rollnumber = 57;
     st.specialization = "BCA";
     st.displaypersoninfo();
