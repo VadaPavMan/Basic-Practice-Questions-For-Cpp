@@ -163,3 +163,28 @@ Age: 69
 Roll Number: 57
 Graduated from: BCA
 ```
+
+**10. Simple Constructor Based Program**
+
+- Create class with the attributes name, age and gpa.
+- Now create the constructor to display the attributes before the modification.
+- Now in main function, create the name1, age1, and gpa1, Take input from the user for all.
+- In final, create the object named student and pass the all 3 variables.
+
+Output: 
+```
+Enter the name: Vadapvman
+Enter the age: 21
+Enter the GPA: 8.9
+Before the change: Name - Vadapvman
+Age - 21
+GPA - 8.9
+
+This is the constructor dont know how to use it lol
+Now Enter the Name here: Vadapavmandied
+Enter the Age: 23
+Enter the GPA: 4.2
+Name: Vadapavmandied
+Age: 23
+GPA: 4.2
+```
