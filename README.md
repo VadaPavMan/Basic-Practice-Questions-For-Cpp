@@ -188,3 +188,7 @@ Name: Vadapavmandied
 Age: 23
 GPA: 4.2
 ```
+
+**11. 2 Programs Of Scope Resultion In Class/Object**
+- [1. In Object](Scope_resolution_in_object1.cpp)
+- [2. Inheritance](Scope_resolution_inheritance.cpp)
