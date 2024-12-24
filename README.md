@@ -192,3 +192,7 @@ GPA: 4.2
 **11. 2 Programs Of Scope Resultion In Class/Object**
 - [1. In Object](Scope_resolution_in_object1.cpp)
 - [2. Inheritance](Scope_resolution_inheritance.cpp)
+
+**12. W.A.P to create a class ‘item’ having member elements as code and price and member
+functions as getdata() and show(). Using concept of Pointer to objects disaplay the data for 3
+products.**
