@@ -205,3 +205,14 @@ The area of circle: 91.6088
 The area of triangle: 21.93
 The area of square: 16
 ```
+**14. WAP to implement a class called BankAccount that has private member variables for
+account number and balance. Include member functions to deposit and withdraw money from
+the account.**
+
+```
+Enter The Account Number To Set: 6339565
+Your Bank Account Number Is: 6339565
+Enter The Amount To Deposit: 500
+Enter The Amount To Withdraw: 14444  
+Insufficient funds, Account Does Not Have The Sufficient Balance To Withdraw.
+```
