@@ -205,7 +205,7 @@ The area of circle: 91.6088
 The area of triangle: 21.93
 The area of square: 16
 ```
-**14. WAP to implement a class called BankAccount that has private member variables for
+**14. (Basic) WAP to implement a class called BankAccount that has private member variables for
 account number and balance. Include member functions to deposit and withdraw money from
 the account.**
 
