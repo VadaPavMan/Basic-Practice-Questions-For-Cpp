@@ -193,6 +193,15 @@ GPA: 4.2
 - [1. In Object](Scope_resolution_in_object1.cpp)
 - [2. Inheritance](Scope_resolution_inheritance.cpp)
 
-**12. W.A.P to create a class ‘item’ having member elements as code and price and member
+**12. WAP to create a class ‘item’ having member elements as code and price and member
 functions as getdata() and show(). Using concept of Pointer to objects disaplay the data for 3
 products.**
+
+**13. WAP using the concept of function Overloading to calculate area of a circle , triangle and
+square. The common name to calculate the area of all the three shapes will be area().**
+
+```
+The area of circle: 91.6088
+The area of triangle: 21.93
+The area of square: 16
+```
