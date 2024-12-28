@@ -216,3 +216,5 @@ Enter The Amount To Deposit: 500
 Enter The Amount To Withdraw: 14444  
 Insufficient funds, Account Does Not Have The Sufficient Balance To Withdraw.
 ```
+
+**15. Create a class Rectangle with private members length and width. Write a constructor that uses the this pointer to initialize the private members. Include a member function area() to calculate and return the area of the rectangle.**
