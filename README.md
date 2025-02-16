@@ -219,6 +219,19 @@ Insufficient funds, Account Does Not Have The Sufficient Balance To Withdraw.
 
 **15. Create a class Rectangle with private members length and width. Write a constructor that uses the this pointer to initialize the private members. Include a member function area() to calculate and return the area of the rectangle.**
 
+
 **16. Create a class Person that contains private attributes name and age.
 Write a constructor to initialize the attributes using the this pointer.
 Add a member function isOlderThan(Person other) that compares the ages of the current object and the other object, and returns true if the current object is older. Use the this pointer in the implementation.**
+
+**17. Create This Pattern:**
+
+```
+Take Number: 5
+
+    1
+   121
+  12321
+ 1234321
+123454321
+```
