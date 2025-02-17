@@ -238,7 +238,7 @@ Take Number: 5
 
 **18. Combination Calculator: Write A Program To Find The nCr**
 
-**Output: **
+**Output:**
 ```
 //Input: nCr(6,5);
 
