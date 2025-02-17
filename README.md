@@ -235,3 +235,13 @@ Take Number: 5
  1234321
 123454321
 ```
+
+**18. Combination Calculator: Write A Program To Find The nCr**
+
+**Output: **
+```
+//Input: nCr(6,5);
+
+Output:
+Combination Calculation: 6
+```
