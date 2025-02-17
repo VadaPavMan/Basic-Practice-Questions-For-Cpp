@@ -245,3 +245,12 @@ Take Number: 5
 Output:
 Combination Calculation: 6
 ```
+
+**19. Traversal And Finding The Minimum And Maximum Value In Array.**
+
+```
+output: 
+1 2 3 4 5 
+Max: 5
+Min: 1
+```
