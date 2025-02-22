@@ -257,3 +257,15 @@ output:
 Max: 5
 Min: 1
 ```
+
+**20. Create a vector of integers and input n elements from the user. Display the elements using a loop.**
+
+```
+Enter The Size Of Vector: 5
+Enter The Element: 1
+Enter The Element: 2
+Enter The Element: 3
+Enter The Element: 4
+Enter The Element: 5
+1 2 3 4 5
+```
