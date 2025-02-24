@@ -269,3 +269,14 @@ Enter The Element: 4
 Enter The Element: 5
 1 2 3 4 5
 ```
+
+**21. Linear Search: Array**
+
+Initialize A Array with 100 elements `arr[100]`, Take A Input From The User For Any Number They Want To Find From 1 To 100 And Store It In `input`. Now Create A Linear Search Program That Finds The Indexing Of Given Input Number.
+
+```
+Output Preview:
+
+Enter The Number You Want From Array: 5
+Number Found At The Index: 4
+```
