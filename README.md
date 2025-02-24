@@ -280,3 +280,12 @@ Output Preview:
 Enter The Number You Want From Array: 5
 Number Found At The Index: 4
 ```
+
+**22. Linear Search: Find The Second Largest Element In The Same Array Used In `Q.21`.  `Extra`: Also Find The  `Minimum` And  `Maximum` In Array, To Make It More Interesting Just Randomize The Elements Of Array.**
+
+```
+Output:
+
+Max: 100 , Min: 1
+Second Max: 99
+```
