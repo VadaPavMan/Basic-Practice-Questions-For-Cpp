@@ -311,3 +311,21 @@ After Inserting 30: 10 20 30
 After Inserting 40: 10 20 30 40
 After Inserting 50: 10 20 30 40 50
 ```
+
+**25. Insertion In Vectors:**
+
+Write a program to:
+
+- Create a vector of integers with initial elements `{10, 20, 30, 40}`.
+- Insert a value entered by the user at a specific position `(index)`.
+- Display the vector before and after insertion.
+
+```
+Expected Input/Output:
+---Input---
+Enter a number to insert: 25  
+Enter the index to insert at: 2
+---Output---
+Before insertion: 10 20 30 40  
+After insertion: 10 20 25 30 40
+```
