@@ -292,4 +292,4 @@ Second Max: 99
 
 **23. Vector Implementation With Class And Object: **
 
-1. ![Vector Object](SolutionQ23.cpp)
+[1. Vector Object](SolutionQ23.cpp)
