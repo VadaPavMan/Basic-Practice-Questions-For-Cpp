@@ -293,3 +293,21 @@ Second Max: 99
 **23. Vector Implementation With Class And Object:**
 
 [1. Vector Object](SolutionQ23.cpp)
+
+**24. Insertion In Vectors: Write a program to insert 5 integers into a vector `using push_back()`. Display the contents of the vector after each insertion. Input 5 Elements Then Show The Output**
+
+```
+Expected Input/Output Example:
+---Input---
+Enter The Integers 1: 10
+Enter The Integers 2: 20
+Enter The Integers 3: 30
+Enter The Integers 4: 40
+Enter The Integers 5: 50
+---Output---
+After Inserting 10: 10
+After Inserting 20: 10 20
+After Inserting 30: 10 20 30
+After Inserting 40: 10 20 30 40
+After Inserting 50: 10 20 30 40 50
+```
