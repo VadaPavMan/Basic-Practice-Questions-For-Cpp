@@ -290,6 +290,6 @@ Max: 100 , Min: 1
 Second Max: 99
 ```
 
-**23. Vector Implementation With Class And Object: **
+**23. Vector Implementation With Class And Object:**
 
 [1. Vector Object](SolutionQ23.cpp)
