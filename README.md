@@ -353,3 +353,16 @@ Enter the index to insert Diana: 2
 After insertion: Alice Bob Diana Charlie
 
 ```
+**27. Basic Deletion: Write a program that takes `n` integers from the user, stores them in a `vector`, and then deletes the `last element` of the vector. After deletion, display the remaining elements in the vector.**
+
+```
+Expected Input/Output:
+
+Enter The Number Of Elements You Want: 5
+Enter The 1 Element: 1
+Enter The 2 Element: 2
+Enter The 3 Element: 3
+Enter The 4 Element: 4
+Enter The 5 Element: 5
+After Deletion Of Last Element: 1 2 3 4
+```
