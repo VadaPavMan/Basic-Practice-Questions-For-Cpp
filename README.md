@@ -366,3 +366,13 @@ Enter The 4 Element: 4
 Enter The 5 Element: 5
 After Deletion Of Last Element: 1 2 3 4
 ```
+
+**28. Deletion: Write a program that initializes a `vector` with some integers (e.g., {10, 20, 30, 40, 50}), takes an `index` as input from the user, and deletes the element at that index. Display the vector before and after the deletion.**
+
+```
+Expected Input/Output:
+
+Enter the index from were you want to remove: 2
+Befor Deletion: 10 20 30 40 50
+After Deletion: 10 20 40 50
+```
