@@ -376,3 +376,19 @@ Enter the index from were you want to remove: 2
 Befor Deletion: 10 20 30 40 50
 After Deletion: 10 20 40 50
 ```
+**29. Deletion: Write a program that stores n names `(strings)` in a `vector`. Then, ask the user to `input` a name to delete from the vector. If the name exists, remove it and display the updated vector. If the name does not exist, display an appropriate message.**
+
+```
+Expected Input/Output:
+
+Enter the number of elements: 5
+Enter the names 1 : Harsh
+Enter the names 2 : Yash
+Enter the names 3 : Varun
+Enter the names 4 : Riya
+Enter the names 5 : Ganesh
+Before Deletion: Harsh , Yash , Varun , Riya , Ganesh  
+Enter the name you want to delete: Riya
+
+After Deletion: Harsh , Yash , Varun , Ganesh 
+```
