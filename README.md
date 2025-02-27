@@ -329,3 +329,27 @@ Enter the index to insert at: 2
 Before insertion: 10 20 30 40  
 After insertion: 10 20 25 30 40
 ```
+
+**26. Insertion:** 
+
+**Write a program to manage a dynamic list of names:**
+
+- Ask the user how many names they want to enter.
+- Insert each name into a vector using `emplace_back()`.
+- Insert a new name at a specific position (e.g., index 2).
+- Display the vector after all insertions.
+
+```
+Expected Input/Output:
+
+How many names do you want to add? 3
+Enter name 1 : Alice 
+Enter name 2 : Bob
+Enter name 3 : Charlie 
+Before insertion: Alice Bob Charlie 
+Enter a name to insert: Diana
+Enter the index to insert Diana: 2
+
+After insertion: Alice Bob Diana Charlie
+
+```
