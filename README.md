@@ -392,3 +392,20 @@ Enter the name you want to delete: Riya
 
 After Deletion: Harsh , Yash , Varun , Ganesh 
 ```
+
+**30. Write a program to search for all occurrences of a specific element in a vector of integers. Print the indices where the element is found. If the element does not exist, print "Element not found."**
+
+`**Example Input:
+numbers = {10, 20, 30, 20, 40, 20}
+search = 20**`
+
+```
+Expected Output:
+
+Found The Element 20 At Index: 1
+Found The Element 20 At Index: 3
+Found The Element 20 At Index: 5
+This Are The Indexs: 5 3 1
+Element Not Found.
+```
+
