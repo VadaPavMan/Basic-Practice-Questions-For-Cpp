@@ -409,3 +409,14 @@ This Are The Indexs: 5 3 1
 Element Not Found.
 ```
 
+**31. Bubble Sorting Algorithm: Sample Code.**
+
+```
+Enter The Numbers Of Element: 5
+Enter The Elements: 2 
+Enter The Elements: 5 
+Enter The Elements: 1
+Enter The Elements: 5
+Enter The Elements: 4
+1 2 4 5 5
+```
