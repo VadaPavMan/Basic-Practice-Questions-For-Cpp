@@ -453,6 +453,8 @@ Full Sorted Array:
 3. Print the sorted array.
 
 ```
+Input/Output:
+
 Enter The Number Of Element In Array: 10
 Enter The Elements: 3
 Enter The Elements: 12
@@ -467,4 +469,29 @@ Enter The Elements: 4
 3 12 54 56 3 4 67 2 4 4
 Sorted Array:
 2 3 3 4 4 4 12 54 56 67
+```
+**34. Modify the Selection Sort algorithm to:**
+
+1. Sort the array in descending order.
+2. Print the array after every iteration, showing the current state of the array.
+
+```
+Input/Output:
+
+Enter The Number Of Element In Array: 5
+Enter The Elements: 3
+Enter The Elements: 2
+Enter The Elements: 5
+Enter The Elements: 2
+Enter The Elements: 6
+
+Original Array: 3 2 5 2 6
+
+Array Pass 1: 6 2 3 2 5
+Array Pass 2: 6 5 2 2 3
+Array Pass 3: 6 5 3 2 2
+Array Pass 4: 6 5 3 2 2
+
+Sorted Array:
+6 5 3 2 2
 ```
