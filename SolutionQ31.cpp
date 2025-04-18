@@ -31,6 +31,7 @@ void PrintArray(vector <int> arr, int size)
     {
         cout << arr[i] << " ";
     }
+    cout<<endl;
 }
 
 int main()
@@ -46,7 +47,9 @@ int main()
         cin>> num;
         array.push_back(num);
     }
+    PrintArray(array, array.size());
     BubbleSort(array, array.size());
+    cout<<"Sorted Array: "<<endl;
     PrintArray(array, array.size());
 
     return 0;
