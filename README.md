@@ -446,7 +446,7 @@ Full Sorted Array:
 6 5 3 2 2
 ```
 
-**33. Write a program to:**
+**33. Write a Selection Sort based program to:**
 
 1. Take an array of n integers as input.
 2. Sort the array in ascending order using the Selection Sort algorithm.
@@ -494,4 +494,24 @@ Array Pass 4: 6 5 3 2 2
 
 Sorted Array:
 6 5 3 2 2
+```
+
+**35. Write a program to:**
+1. Sort an array in ascending order using Selection Sort.
+2. Extract the smallest k elements from the sorted array.
+3. Print both the k smallest elements and the fully sorted array.
+
+```
+Input/Output:
+
+Enter The Number Of Element In Array: 5
+Enter The Elements: 3
+Enter The Elements: 1
+Enter The Elements: 5
+Enter The Elements: 7
+Enter The Elements: 3
+Enter The Value Of K Elements: 3
+Original Array: 3 1 5 7 3
+K Smallest Elements From Array: 1 3 3
+Sorted Array: 1 3 3 5 7
 ```
