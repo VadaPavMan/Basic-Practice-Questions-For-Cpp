@@ -445,3 +445,26 @@ Largest 3 K Elements:
 Full Sorted Array:
 6 5 3 2 2
 ```
+
+**33. Write a program to:**
+
+1. Take an array of n integers as input.
+2. Sort the array in ascending order using the Selection Sort algorithm.
+3. Print the sorted array.
+
+```
+Enter The Number Of Element In Array: 10
+Enter The Elements: 3
+Enter The Elements: 12
+Enter The Elements: 54
+Enter The Elements: 56
+Enter The Elements: 3
+Enter The Elements: 4
+Enter The Elements: 67
+Enter The Elements: 2
+Enter The Elements: 4
+Enter The Elements: 4
+3 12 54 56 3 4 67 2 4 4
+Sorted Array:
+2 3 3 4 4 4 12 54 56 67
+```
