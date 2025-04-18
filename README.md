@@ -414,6 +414,8 @@ Element Not Found.
 **Problem: Write a program that takes an array of integers as input and sorts it in ascending order using the Bubble Sort algorithm. Then, print the sorted array..**
 
 ```
+Input/Output:
+
 Enter The Numbers Of Element: 5
 Enter The Elements: 2
 Enter The Elements: 5
@@ -423,4 +425,23 @@ Enter The Elements: 3
 2 5 1 6 3
 Sorted Array:
 1 2 3 5 6
+```
+
+**32. Problem: Given an array of integers and a value K, use the Bubble Sort algorithm to sort the array and extract the largest K elements. Return these elements in descending order.**
+
+```
+Input/Output:
+
+Enter The Numbers Of 'K' Element You Want: 3
+Enter The Number Of Element In Array: 5
+Enter The Elements: 2
+Enter The Elements: 5
+Enter The Elements: 2
+Enter The Elements: 6
+Enter The Elements: 3
+2 5 2 6 3
+Largest 3 K Elements:
+6 5 3
+Full Sorted Array:
+6 5 3 2 2
 ```
