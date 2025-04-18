@@ -409,14 +409,18 @@ This Are The Indexs: 5 3 1
 Element Not Found.
 ```
 
-**31. Bubble Sorting Algorithm: Sample Code.**
+**31. Bubble Sorting Algorithm:**
+
+**Problem: Write a program that takes an array of integers as input and sorts it in ascending order using the Bubble Sort algorithm. Then, print the sorted array..**
 
 ```
 Enter The Numbers Of Element: 5
-Enter The Elements: 2 
-Enter The Elements: 5 
-Enter The Elements: 1
+Enter The Elements: 2
 Enter The Elements: 5
-Enter The Elements: 4
-1 2 4 5 5
+Enter The Elements: 1
+Enter The Elements: 6
+Enter The Elements: 3 
+2 5 1 6 3
+Sorted Array:
+1 2 3 5 6
 ```
