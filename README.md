@@ -515,3 +515,11 @@ Original Array: 3 1 5 7 3
 K Smallest Elements From Array: 1 3 3
 Sorted Array: 1 3 3 5 7
 ```
+**36. Insertion Sort: Find the K largest elements from the array: `{8, 3, 1, 7, 4, 2, 9}`**
+```
+Input/Output:
+
+Original Array: 8 3 1 7 4 2 9 
+K Largest 3 elements are: 7 8 9
+Sorted Array: 1 2 3 4 7 8 9
+```
