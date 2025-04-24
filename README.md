@@ -523,3 +523,11 @@ Original Array: 8 3 1 7 4 2 9
 K Largest 3 elements are: 7 8 9
 Sorted Array: 1 2 3 4 7 8 9
 ```
+
+**37. Using Merge Sort, Sort This Given Array Of Integers: `{23, 5, 6, 23,55, 77, 545, 56}`**
+```
+Input/Output:
+
+Original Array: 23 5 6 23 55 77 545 56 
+Sorted Array: 5 6 23 23 55 56 77 545 
+```
