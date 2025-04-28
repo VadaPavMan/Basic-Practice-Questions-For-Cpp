@@ -531,3 +531,11 @@ Input/Output:
 Original Array: 23 5 6 23 55 77 545 56 
 Sorted Array: 5 6 23 23 55 56 77 545 
 ```
+
+**38. Binary Search: Find an element in a sorted array.**
+- **You are given a sorted array `arr[] = {1, 3, 5, 7, 9, 11}` and a target value `7`. Implement a binary search to determine if the target is present in the array. If found, return its index; otherwise, `return -1`.**
+```
+Input/Output:
+
+Element found at index 3
+```
